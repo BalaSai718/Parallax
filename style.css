@@ -1,11 +1,9 @@
 body, html{
     height:100%;
     margin:0;
-    font-size:16px;
-    font-family:sans-serif;
     font-weight:400;
     line-height:1.8em;
-    color:#666;
+    color:grey;
 }
   
 .image-1, .image-2, .image-3, .image-4, .image-5{
